@@ -19,6 +19,8 @@ http://localhost:8080/
 | Server          | URL |
 | ---           | ---       |
 | Frontend      | http://localhost:8080/         |
+| Wiremock API  | http://localhost:8080/api/example        |
+| Frontend      | http://localhost:8082/         |
 | Wiremock API  | http://localhost:8081/api/example        |
 
 
