@@ -16,9 +16,13 @@ http://localhost:8080/
     \-[*]------> http://localhost:8082/
 ```
 
-For help
+| Server          | URL |
+| ---           | ---       |
+| Frontend      | http://localhost:8080/         |
+| Wiremock API  | http://localhost:8081/api/example        |
+
+
+#### For Help
 ```
 npx wiremock --help
 ```
-
-
